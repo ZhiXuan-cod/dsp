@@ -1,0 +1,18 @@
+{
+  "karen": {
+    "password_hash": "2c4779e28ec964baa2afdeb862be4b9776562866443cfcf22f37950c20ed0af2",
+    "info": {
+      "full_name": "",
+      "email": ""
+    },
+    "role": "user",
+    "history": [
+      {
+        "action": "Logged in",
+        "timestamp": "2026-03-09T10:43:41.231254"
+      }
+    ],
+    "created_at": "2026-03-09T10:43:32.849720",
+    "last_login": "2026-03-09T10:43:41.228123"
+  }
+}
